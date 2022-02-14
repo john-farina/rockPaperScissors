@@ -49,7 +49,7 @@ function playRound(playerSelection, computerSelection){
 
 //PROMPT TO HAVE USERS TYPE IN THEIR CHOICE
 // const playerPrompt = prompt("Please Enter Rock Paper or Scissors","Rock");
-
+//hi
 //MAKES THE PROMPTS ANSWER INTO LOWER CASE
 // const playerSelection = playerPrompt.toLowerCase();
 
